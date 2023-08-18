@@ -124,6 +124,7 @@
 		CC16354B2A868C3D00227577 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				CC750C992A85503300DC43E9 /* ContentView.swift */,
 				CC3DCC692A8E94750044743A /* Categories */,
 				CC3DCC602A8E78A90044743A /* Hikes */,
 				CC42B9582A86D4060061EFF4 /* Helpers */,
@@ -147,7 +148,6 @@
 		CC3DCC5B2A8E756C0044743A /* Badges */ = {
 			isa = PBXGroup;
 			children = (
-				CC750C992A85503300DC43E9 /* ContentView.swift */,
 				CC42B95B2A8A81F00061EFF4 /* BadgeBackground.swift */,
 				CC3DCC552A8E70580044743A /* BadgeSymbol.swift */,
 				CC3DCC572A8E72170044743A /* RotatedBadgeView.swift */,
